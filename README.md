@@ -77,16 +77,20 @@ Since our study design seeks to improve MecharCar against competition, we would 
 
 
 What metric or metrics are you going to test?
+
    Are there differences average city or highway fuel effiency between MecharCar vehicles and competition vehicles?
 
 What is the null hypothesis or alternative hypothesis?
+
   Null Hyothesis: There is no difference between average city or highway fuel efficiency between MecharCar and Competition vehicles
   Alternative Hypothesis: There is difference between average city or highway fuel efficiency between MecharCar and Competition vehicles
 
 What statistical test would you use to test the hypothesis? And why?
+
   Type of data -Dichotomous (Sample A versus Sample B)
   Dependent Variable- city or highway fuel efficiency---> Continuous
   Based on above data , we would employ Two sample T Test to evaluate if there are differences on fuel efficiency between MechaCar and competition vehicles
 
 What data is needed to run the statistical test?
+
    To perform the test, we would need data of MechaCar vehicles and its competition, all gathered in a single dataframe where each metric is a column.
